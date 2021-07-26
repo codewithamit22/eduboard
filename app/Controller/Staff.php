@@ -4,9 +4,9 @@
 
 
 	/**
-	 * Student management
+	 * Staff management
 	 */
-	class Student
+	class Staff
 	{
 		
 		
