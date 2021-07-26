@@ -1,6 +1,6 @@
 <?php 
 
-	namespace app\Support;
+	namespace Edu\Board\Support;
 
 
 	/**
@@ -8,6 +8,8 @@
 	 */
 	abstract class Database
 	{
+
+		
 		
 		
 	}

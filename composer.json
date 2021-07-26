@@ -1,0 +1,20 @@
+{
+    "name": "codewithamit22/education-board-result",
+    "description": "This is learning purpose project for result calculation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CoderAmit",
+            "email": "amitsoftware015@gmail.com"
+        }
+    ],
+    
+    "autoload" : {
+        "psr-4" : {
+            "Edu\\Board\\" : "app\\"
+        }
+    },
+
+    "require": {}
+}
